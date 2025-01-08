@@ -127,6 +127,22 @@ If you return to a previous commit (e.g., `commit 2`) and make changes, here are
    ```
 
 ---
+
+## Visualize branches
+
+### Using a git command
+   ```sh
+   git log --oneline --graph --all --decorate
+   ```
+## Using a VS Code Extention
+   - Git Graph
+
+
+
+
+
+
+---
 ## Where to learn git
 - [Git Documentation](https://git-scm.com/docs)
 - [Learn Git Branching](https://learngitbranching.js.org/)
