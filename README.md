@@ -127,6 +127,14 @@ If you return to a previous commit (e.g., `commit 2`) and make changes, here are
    ```
 
 ---
+## Where to learn git
+- [Git Documentation](https://git-scm.com/docs)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+
+
+
+
+---
 
 ## Working with GitHub
 ### Forking and Pull Requests
