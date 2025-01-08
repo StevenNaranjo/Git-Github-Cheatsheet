@@ -138,6 +138,11 @@ If you return to a previous commit (e.g., `commit 2`) and make changes, here are
    - Git Graph
 
 
+## Where to Contribute
+
+[For Good First Issue](https://forgoodfirstissue.github.com/)
+[Goof First Issue](https://goodfirstissue.dev/)
+[Good First Issues](https://goodfirstissues.com/)
 
 
 
